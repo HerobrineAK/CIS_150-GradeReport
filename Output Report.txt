@@ -1,0 +1,85 @@
+
+                         STUDENT GRADE POINT REPORT                  Page:   1
+                               BY: David Rees
+
+              -------- Course #1 -------    -------- Course #2 -------
+Student       Course  Credit       Grade    Course  Credit       Grade    Grade
+Name          ID #1      Hrs Grade   Pts    ID #2      Hrs Grade   Pts   Pt Avg
+
+HAL O WEEN    BUS123       1   3.5   3.5    CIS223       2   4.0   8.0     3.83
+LODGE ICK     CIS223       2   2.5   5.0    BUS123       3   3.5  10.5     3.10
+BOB KATZ      ACT300       5   1.5   7.5    BUS278       3   3.5  10.5     2.25
+SHAM ROCK     CIS150       3   3.5  10.5    BUS123       2   3.0   6.0     3.30
+FRED FULLER   ACT301       4   1.5   6.0    CIS150       3   2.5   7.5     1.93
+JULIE MINNE   ACT498       5   4.0  20.0    CIS150       3   4.0  12.0     4.00
+ANN EMAL      BUS123       2   4.0   8.0    BUS278       2   3.0   6.0     3.50
+FLO WERE      BUS278       3   3.5  10.5    CIS150       3   3.5  10.5     3.50
+MR. JONES     ACT203       3   4.0  12.0    CIS100       3   1.5   4.5     2.75
+MAYI WASH     ACT300       4   2.5  10.0    ACT301       2   0.5   1.0     1.83
+SUZIE SMART   ACT203       2   3.5   7.0    BUS123       2   2.0   4.0     2.75
+DAN DONUT     ACT301       2   1.5   3.0    BUS123       2   2.5   5.0     2.00
+FI R PLAAS    BUS278       3   3.0   9.0    ACT301       2   1.0   2.0     2.20
+WAYNE TIDE    BUS278       3   0.0   0.0    BUS123       2   3.5   7.0     1.40
+FLICK ERING   BUS278       3   3.0   9.0    BUS278       3   4.0  12.0     3.50
+ADAMS APPLE   CIS122       4   3.0  12.0    CIS223       3   2.5   7.5     2.79
+STAY R CASE   BUS278       3   2.5   7.5    BUS123       2   2.0   4.0     2.30
+MAY TRIX      BUS123       3   3.0   9.0    CIS223       3   0.0   0.0     1.50
+CAN DELL      BUS123       2   1.0   2.0    CIS150       3   3.0   9.0     2.20
+DOR NOB       CIS122       4   1.5   6.0    ACT203       2   1.5   3.0     1.50
+
+                         STUDENT GRADE POINT REPORT                  Page:   2
+                               BY: David Rees
+
+              -------- Course #1 -------    -------- Course #2 -------
+Student       Course  Credit       Grade    Course  Credit       Grade    Grade
+Name          ID #1      Hrs Grade   Pts    ID #2      Hrs Grade   Pts   Pt Avg
+
+WIN DOPAN     CIS122       3   0.0   0.0    BUS278       3   1.5   4.5     0.75
+E. T.         CIS122       4   2.5  10.0    BUS123       2   3.5   7.0     2.83
+MAY BEL       CIS122       2   4.0   8.0    ACT301       2   2.5   5.0     3.25
+LITS WICH     BUS123       3   2.0   6.0    BUS123       2   4.0   8.0     2.80
+REG ISTR      CIS122       4   2.5  10.0    BUS278       3   3.0   9.0     2.71
+AL EWE        CIS223       3   4.0  12.0    CIS166       3   1.5   4.5     2.75
+ANNIE BANANE  ACT300       2   0.0   0.0    CIS223       3   1.0   3.0     0.60
+LUCK EE       CIS150       3   4.0  12.0    BUS123       3   1.5   4.5     2.75
+SEE PEA EWE   CIS223       3   1.5   4.5    ACT301       2   3.5   7.0     2.30
+MARY HOUSE    ACT498       4   3.5  14.0    BUS123       2   2.0   4.0     3.00
+LYI ONS       CIS223       3   0.0   0.0    ACT301       4   2.5  10.0     1.43
+TIMOTHY TRY   ACT498       3   2.0   6.0    ACT203       2   0.5   1.0     1.40
+PRIME AIREY   CIS223       3   4.0  12.0    BUS123       3   2.5   7.5     3.25
+BAD JER       CIS223       4   4.0  16.0    BUS123       2   2.5   5.0     3.50
+EYE RUSH      CIS223       3   3.0   9.0    CIS166       3   3.0   9.0     3.00
+TACKS TYM     CIS166       2   3.0   6.0    BUS278       3   3.0   9.0     3.00
+EVE KNEEG     CIS223       2   2.0   4.0    ACT301       2   1.0   2.0     1.50
+PEN KNEE      CIS223       3   3.0   9.0    BUS278       2   3.0   6.0     3.00
+TWO LIP       CIS223       3   1.0   3.0    CIS150       3   4.0  12.0     2.50
+LEP RO CON    CIS150       3   3.0   9.0    CIS223       3   3.0   9.0     3.00
+
+                         STUDENT GRADE POINT REPORT                  Page:   3
+                               BY: David Rees
+
+              -------- Course #1 -------    -------- Course #2 -------
+Student       Course  Credit       Grade    Course  Credit       Grade    Grade
+Name          ID #1      Hrs Grade   Pts    ID #2      Hrs Grade   Pts   Pt Avg
+
+HIGH ESENC    CIS223       3   3.5  10.5    BUS278       3   0.0   0.0     1.75
+COREY OPUS    CIS223       3   4.0  12.0    BUS123       2   2.5   5.0     3.40
+BLEW BEL      CIS223       3   2.0   6.0    ACT301       2   3.0   6.0     2.40
+TUR KEY DAY   CIS223       4   4.0  16.0    ACT301       2   2.5   5.0     3.50
+APL TRE       CIS223       3   1.5   4.5    CIS166       2   3.0   6.0     2.10
+CODE AKE      CIS166       2   3.5   7.0    CIS223       2   1.5   3.0     2.50
+DEEP OH       CIS166       2   3.0   6.0    BUS123       2   3.0   6.0     3.00
+PETE SAH      CIS166       2   4.0   8.0    BUS123       3   2.0   6.0     2.80
+DATA BUS      BUS123       3   2.0   6.0    CIS223       2   3.5   7.0     2.60
+EYE BEA EM    CIS166       2   0.5   1.0    CIS223       3   0.0   0.0     0.20
+
+FINAL TOTALS:
+     Number of Students             50
+
+     All Credit Hours              273
+     All Grade Points              686.0
+
+     Overall Grade Point Average     2.513
+
+
+          Press -ENTER- TO EXIT
